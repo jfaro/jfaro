@@ -1,15 +1,10 @@
 <div align="center">
   
-**Links to connect**
-
+## Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-julienfaro-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-faro/)](https://www.linkedin.com/in/julien-faro/)
-[![Gmail Badge](https://img.shields.io/badge/-jnfaro99@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jnfaro99@@gmail.com)](mailto:jnfaro99@gmail.com)
-<!--[![Website Badge](https://img.shields.io/badge/-My_Website-000000?style=for-the-badge&link=https://www.julienfaro.io/)](https://julienfaro.io/)-->
+[![Gmail Badge](https://img.shields.io/badge/-jnfaro99@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jnfaro99@@gmail.com)](mailto:jnfaro99@gmail.com)</br>
 
-<br>
-
-**Skills**
-
+## Skills
 ![C++ Badge](https://img.shields.io/badge/-C++-000000?style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/-Python-13283a?style=for-the-badge&logo=python)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-4a4203?logo=javascript&style=for-the-badge)
@@ -26,7 +21,7 @@
 
 ![Ableton Live Badge](https://img.shields.io/badge/-Ableton_Live-000000?logo=Ableton_Live&style=for-the-badge)
 
-<!-- Stats -->
+## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jfaro&show_icons=false&theme=graywhite)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfaro&theme=graywhite)
